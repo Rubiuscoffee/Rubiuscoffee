@@ -22,5 +22,5 @@
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://rubiuscoffereadme.vercel.app?section=main&theme=dark">
-  <img src="https://rubiuscoffereadme.vercel.app?section=main&theme=light" alt="Part time coder part time weirdo designer. Bridging the gap between design and development." width="100%" height="290" align="left">
+  <img src="https://rubiuscoffereadme.vercel.app?section=main&theme=light" alt="Part time coder part time weirdo designer. Bridging the gap between design and development." width="100%" height="320" align="left">
 </picture>
